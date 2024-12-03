@@ -1,4 +1,4 @@
-public class RecursionExample1 {  
+public class Recursion {  
 static void p(){  
 System.out.println("hello");  
 p();  
